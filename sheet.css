@@ -730,7 +730,7 @@ img{
 /*-----Video-----*/
 
 .headz h1{
-	font-size: 30px;
+    font-size: 30px;
     margin-top: 70px;
     margin-bottom: 20px;
     padding: 0 50px 0px;
@@ -742,7 +742,7 @@ img{
     
 }
 .row .clm{
-    padding: 7px;
+    padding: 3px;
     width: calc(100% / 2);
 
 }
