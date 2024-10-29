@@ -738,7 +738,7 @@ img{
 .row{
     display: flex;
     flex-wrap: wrap;
-    padding: 15px 50px 35px;
+    padding: 100px 500px 350px;
     
 }
 .row .clm{
